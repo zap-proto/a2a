@@ -1,6 +1,6 @@
 # zap-a2a
 
-> **Docs:** [Agent-to-Agent over ZAP](https://zap-proto.dev/docs) · part of the [ZAP Protocol](https://zap-proto.io)
+> **Docs:** [Agent-to-Agent over ZAP](https://zap-proto.dev/docs/protocols/a2a) · part of the [ZAP Protocol](https://zap-proto.io)
 
 
 Google Agent2Agent over ZAP — agent cards, tasks, artifacts, all signed.
